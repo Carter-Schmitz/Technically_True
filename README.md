@@ -15,6 +15,8 @@
   ## Description 
   An MVC based Tech Blog for sharing information with peers. Users have the capability to signup, or login to their account and make blog posts, comment on other people's posts, edit and delete their own posts. 
 
+Screenshot: ![technicallytrue](https://user-images.githubusercontent.com/113850230/224882768-8c8cc731-a2c2-4f80-a38f-b4b7aecd2a5c.PNG)
+
   ## Installation 
   N/A Application is deployed to heroku
 
